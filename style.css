@@ -1,0 +1,16 @@
+*{
+    background-color: #171717;
+}
+
+.on{
+    display: block;
+    margin: auto;
+    padding: auto;
+    width: 500px;
+}
+.turn-on{
+    display: block;
+  margin: 20px auto;
+    padding: 10px 15px;
+    background-color: yellow;
+}
